@@ -1,4 +1,4 @@
-# Histopathology Image Analysis Project
+# Histopathology Image Analysis
 
 ## Overview
 This project delves into the intricate world of histopathology image analysis. It aims to automate the identification and counting of various cell types in histopathological images (neutrophil, epithelial, lymphocyte, plasma, eosinophil, connective), a crucial task in medical diagnostics and research. Through this Jupyter notebook, we explore different aspects of image processing, cell differentiation, and data visualization in the realm of digital pathology.
